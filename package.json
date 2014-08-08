@@ -8,6 +8,7 @@
     "url": "https://github.com/jacobangel/reactcrap.git"
   },
   "dependencies": {
-    "express": "^4.8.2"
+    "express": "^4.8.2",
+    "body-parser": "^1.6.2"
   }
 }

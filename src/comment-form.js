@@ -10,6 +10,11 @@ var CommentForm = React.createClass({
 			return false;
 		}
 
+		this.props.onCommentSubmit({
+			author: author,
+			text: text	
+		});
+
 		// @todo presumably wqire this up.
 		this.refs.author.getDOMNode().value = '';
 		this.refs.text.getDOMNode().value = '';
