@@ -12,7 +12,7 @@ Seriously.
 Apparently it's going to look something like this: 
 
 - CommentBox
-  - CommeentList
+  - CommentList
     - Comment
   - CommentForm
 
@@ -24,3 +24,5 @@ I did the "cool" thing and made a server.js. Just:
 npm install
 node server.js
 ```
+
+I basically just copied the tutorial. 
