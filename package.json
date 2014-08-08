@@ -4,7 +4,10 @@
   "description": "Code from the React tutorial.",
   "main": "server.js",
   "repository": {
-  	"type": "git",
-  	"url": "https://github.com/jacobangel/reactcrap.git"
+    "type": "git",
+    "url": "https://github.com/jacobangel/reactcrap.git"
+  },
+  "dependencies": {
+    "express": "^4.8.2"
   }
 }
