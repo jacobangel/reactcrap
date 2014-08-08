@@ -15,3 +15,12 @@ Apparently it's going to look something like this:
   - CommeentList
     - Comment
   - CommentForm
+
+## Starting Up
+
+I did the "cool" thing and made a server.js. Just:
+
+```
+npm install
+node server.js
+```
