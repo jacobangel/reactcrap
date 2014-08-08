@@ -1,0 +1,10 @@
+{
+  "name": "react-tutorial",
+  "version": "0.0.0",
+  "description": "Code from the React tutorial.",
+  "main": "server.js",
+  "repository": {
+  	"type": "git",
+  	"url": "https://github.com/jacobangel/reactcrap.git"
+  }
+}
